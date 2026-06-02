@@ -1,0 +1,37 @@
+{
+    "company_name": "GEOSPATIAL INDUSTRY",
+
+    "ntrip_port": 2101,
+
+    "api_port": 9090,
+
+    "logo": "assets/logo.png",
+
+    "icon": "assets/icon.ico",
+
+    "users_file": "data/users.json",
+
+    "mountpoints": {
+
+        "GSI_IGM2024": {
+
+            "ip": "127.0.0.1",
+
+            "port": 9001
+        },
+
+        "GSI_IGM2010": {
+
+            "ip": "127.0.0.1",
+
+            "port": 9002
+        },
+
+        "GSI_INRA": {
+
+            "ip": "127.0.0.1",
+
+            "port": 9003
+        }
+    }
+}
